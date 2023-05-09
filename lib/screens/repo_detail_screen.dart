@@ -1,4 +1,0 @@
-
-class RepoDetailScreen extends StatefulWidget{
-  
-}
